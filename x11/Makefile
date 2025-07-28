@@ -610,6 +610,7 @@
     SUBDIR += xkeywrap
     SUBDIR += xkill
     SUBDIR += xlibre
+    SUBDIR += xlibre-minimal
     SUBDIR += xload
     SUBDIR += xloadimage
     SUBDIR += xlockmore
